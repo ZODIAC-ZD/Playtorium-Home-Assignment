@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "name": "T-Shirt",
+            "category": "Clothing",
+            "price": 350
+        },
+        {
+            "name": "Hat",
+            "category": "Accessories",
+            "price": 250
+        },
+        {
+            "name": "Hoodie",
+            "category": "Clothing",
+            "price": 700
+        },
+        {
+            "name": "Bag",
+            "category": "Accessories",
+            "price": 640
+        },
+        {
+            "name": "Watch",
+            "category": "Electronics",
+            "price": 850
+        },
+        {
+            "name": "Belt",
+            "category": "Accessories",
+            "price": 640
+        }
+    ]
+}

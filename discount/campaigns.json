@@ -1,0 +1,24 @@
+{
+    "campaigns": [
+        {
+            "name": "Fixed amount",
+            "category": "Coupon"
+        },
+        {
+            "name": "Percentage discount",
+            "category": "Coupon"
+        },
+        {
+            "name": "Percentage discount by item category",
+            "category": "On Top"
+        },
+        {
+            "name": "Discount by points",
+            "category": "On Top"
+        },
+        {
+            "name": "Special campaigns",
+            "category": "Seasonal"
+        }
+    ]
+}
